@@ -1,6 +1,6 @@
 # catetsih
 Record your emotional level
-
+input your data -> store to local storage -> show your data using line chart (data visualization)
 <br>
 <br>
 Ionic 4 
